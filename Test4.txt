@@ -1,1 +1,3 @@
 hello dear
+Snehal Learning JAVA Program.
+JAVA is platform independent language.
